@@ -1,4 +1,4 @@
-# WEB Java Fundamentals Sprint Challenge
+# WEB Java Fundamentals Sprint Challenge 
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
